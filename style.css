@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.list{
+  margin-top: 1;
+  padding-left: 1100px;
+}
+.gallery{
+  margin-top: -490px;
+  padding-left: 1150px;
+}
+.gallery a{
+  color: rebeccapurple;
+}
+.gallery a:visited{
+  color: rebeccapurple;
+}

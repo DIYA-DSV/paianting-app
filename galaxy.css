@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+canvas {
+    display: block;
+}
+.list{
+    margin-top: 1;
+    padding-left: 1100px;
+}
+.index{
+    margin-top: -580px;
+    padding-left: 1150px;
+}
+.index a{
+    color: rebeccapurple;
+}
+.index a:visited{
+    color: rebeccapurple;
+}
+  
